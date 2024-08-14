@@ -3,3 +3,27 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+ 
+  h1 {
+    font-size: 50px;
+    color: white;
+  }
+  h2 {
+    font-weight: 300;
+    font-size: 42px;
+  }
+  p {
+    font-size: 21px;
+    color: gray;
+  }
+
+.link {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+}
